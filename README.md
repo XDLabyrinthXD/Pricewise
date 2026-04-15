@@ -118,7 +118,7 @@ npm run dev
 
 ---
 
-## 💡 Key Highlights (For Recruiters)
+## 💡 Key Highlights
 
 * Full-stack project (React + Flask)
 * Real-world problem solving (price comparison)
